@@ -10,15 +10,6 @@ The dashboard was built in **Power BI** with interactive visuals and DAX measure
 
 ## 📊 Dataset
 - **Source**: Hospitality booking data (provided for project use) 
-- **Key Columns**:
-  - `Booking Date`, `Check-In Date`, `Check-Out Date`
-  - `Booking Platform` (MakeyourTrip, LogTrip, Tripster, etc.)
-  - `Room Category` (Luxury, Business, etc.)
-  - `ADR` (Average Daily Rate)
-  - `Occupancy %`
-  - `Status` (Completed, Cancelled)
-  - `City`
-- **Volume**: ~X,XXX records
 
 ---
 
@@ -40,7 +31,7 @@ The dashboard was built in **Power BI** with interactive visuals and DAX measure
 
 ## 📷 Dashboard Preview
 
-![]("D:/st.clair-D/personal projects/Hospitality Domain/dashboard.png")
+![](https://github.com/bhumilad/hospitality_domain_project/blob/main/dashboard.png)
 
 ---
 
